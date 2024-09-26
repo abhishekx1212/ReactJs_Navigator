@@ -1,0 +1,97 @@
+{
+  "users": [
+    {
+      "id": "94cc",
+      "userName": "lobomewin",
+      "email": "vozy@mailinator.com",
+      "mobile": "Hic veritatis dolore",
+      "city": "Vapi",
+      "gender": "female",
+      "hobby": [
+        "football"
+      ]
+    },
+    {
+      "id": "722e",
+      "userName": "Trigon",
+      "email": "trigonx1212@gmail.com",
+      "mobile": "09714476909",
+      "city": "surat",
+      "gender": "male",
+      "hobby": [
+        "football",
+        "hockey"
+      ]
+    },
+    {
+      "id": "4efe",
+      "userName": "Iron man",
+      "email": "ironman@gmail.com",
+      "mobile": "11333333",
+      "city": "Vapi",
+      "gender": "male",
+      "hobby": [
+        "hockey"
+      ]
+    },
+    {
+      "id": "3856",
+      "userName": "Hulk",
+      "email": "hulk@gmail.com",
+      "mobile": "44353443534",
+      "city": "Baroda",
+      "gender": "male",
+      "hobby": [
+        "cricket",
+        "football"
+      ]
+    },
+    {
+      "id": "2434",
+      "userName": "aaa",
+      "email": "z@g.com",
+      "mobile": "00000",
+      "city": "Baroda",
+      "gender": "female",
+      "hobby": [
+        "cricket",
+        "hockey"
+      ]
+    },
+    {
+      "id": "e3e1",
+      "userName": "vecol",
+      "email": "winoxonapy@mailinator.com",
+      "mobile": "Quia dolor temporibu",
+      "gender": "female",
+      "city": "surat",
+      "hobby": [
+        "cricket"
+      ]
+    },
+    {
+      "id": "7414",
+      "userName": "xuwiponycu",
+      "email": "vynyze@mailinator.com",
+      "mobile": "Itaque dolor neque e",
+      "gender": "male",
+      "hobby": [
+        "cricket",
+        "football"
+      ],
+      "city": "Baroda"
+    },
+    {
+      "id": "286d",
+      "userName": "hosazig",
+      "email": "wikyzyre@mailinator.com",
+      "mobile": "Qui omnis dolor sunt",
+      "gender": "male",
+      "hobby": [
+        "football"
+      ],
+      "city": "Baroda"
+    }
+  ],
+  "admin": []
+}
